@@ -1,0 +1,15 @@
+.header {
+}
+.header__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.header__box {
+    width: 300px;
+    // height: 200px;
+    background-color:green;
+    border: 12px solid;
+    border-color: blueviolet;
+}
